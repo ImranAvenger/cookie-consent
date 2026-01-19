@@ -67,6 +67,7 @@ By completing this project, you'll understand:
 
 ## 🔗 Resources
 
+- [Original Project on roadmap.sh](https://roadmap.sh/projects/cookie-consent)
 - [MDN: DOM Manipulation](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 - [MDN: localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 - [MDN: Event Listeners](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
